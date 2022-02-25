@@ -2,7 +2,7 @@
 
 Glad to see you here! This GitHub Pages site is used to host the subscription files.
 
-[Click here to subscribe!](https://developer.apple.com/ul/sp0?url=https://www.playgrounds.bertan.codes/sub/feed.json)
+[Click here to subscribe on iPad!](https://developer.apple.com/ul/sp0?url=https://www.playgrounds.bertan.codes/sub/feed.json)
 
 **Or if you are using a Mac:**
 * Launch the Playgrounds app and click show more in the bottom right corner to view the Playground gallery.
