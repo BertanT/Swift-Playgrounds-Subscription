@@ -1,4 +1,4 @@
-# **Welcome to my Playground Subscirption!** 😄
+# **Welcome to my Swift Playgrounds Subscirption!** 😄
 
 Glad to see you here! This GitHub Pages site is used to host the subscription files.
 
