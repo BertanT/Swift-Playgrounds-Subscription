@@ -4,7 +4,7 @@
     "publisherName": "M. Bertan Tarakçıoğlu",
     "feedIdentifier": "com.bertan.playgroundcollection",
     "contactURL": "https://www.bertan.codes/contact-me",
-    "formatVersion": "1.2",
+    "formatVersion": "1.0",
     "documents": [
         {
             "title": "The Collatz Playground",
