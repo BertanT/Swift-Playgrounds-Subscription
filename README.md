@@ -7,7 +7,9 @@ Glad to see you here! This GitHub Pages site is used to host the subscription fi
 **Or if you are using a Mac:**
 * Launch the Playgrounds app and click show more in the bottom right corner to view the Playground gallery.
 * Scroll all the way down and click "Enter a Subscription URL".
-* Enter the link below inside the prompt and click "Subscribe".
+* Enter the following subscription URL to the prompt and click "Subscribe"  
+
+**Subscription URL:** https://www.playgrounds.bertan.codes/sub/feed.json
 
 More playgrounds coming very soon!
 
