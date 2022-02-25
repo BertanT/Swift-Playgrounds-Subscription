@@ -1,0 +1,43 @@
+{
+    "title": "Bertan's Playgrounds",
+    "subtitle": "A Collection of My WWDC Swift Student Challenge Playgrounds and More!",
+    "publisherName": "M. Bertan Tarakçıoğlu",
+    "feedIdentifier": "com.bertan.playgroundcollection",
+    "contactURL": "https://www.bertan.codes/contact-me",
+    "formatVersion": "1.2",
+    "documents": [
+        {
+            "title": "The Collatz Playground",
+            "overviewSubtitle": "Discover the Collatz Conjecture (3n+1) With Graphs!",
+            "detailSubtitle": "Graph the Collatz Conjecture (3n+1) graph of any number you chose!",
+            "description": "A simple Swift Playground I created during my library hour at school! This playground plots a Collatz conjecture (aka 3n+1) graph after entering an input number, which will always reach to zero at the end!",
+            "difficultyLevel": "intermediate",
+            "attributes": [
+                "short",
+                "graphical",
+                "premadeForTinkerers"
+            ],
+            "authorChosenUpNext": "com.bertan.playgroundcollection.theADHDExploration",
+            "supportedDevices": [
+                "iPad",
+                "Mac"
+            ],
+            "contentIdentifier": "com.bertan.playgroundcollection.theCollatzPlayground",
+            "contentVersion": "1.0",
+            "url": "theCollatzPlayground/The%20Collatz%20Playground.playgroundbook.zip",
+            "publishedDate": "2021-10-27T13:53:42+03:00",
+            "lastUpdatedDate": "2021-10-27T13:53:42+03:00",
+            "thumbnailURL": "theCollatzPlayground/thumbnail.png",
+            "bannerImageURL": "theCollatzPlayground/banner.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "theCollatzPlayground/preview-1.png"
+            ]
+        }
+    ]
+}
