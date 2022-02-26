@@ -44,6 +44,43 @@
             ]
         },
         {
+            "title": "WWDC20 Badge Creator",
+            "overviewSubtitle": "Create Your Own Badges for the first all online WWDC!",
+            "detailSubtitle": "Accepted submission for the WWDC20 Swift Student Challenge!",
+            "description": "WWDC20 is the first-ever all online Apple Event - and of course, the WWDC! This means all attendance to WWDC20 was online, so nobody had a conference badge. Conference badges, in my opinion, are objects with great sentimental value. They can remind you of the amazing time you had and the people you met. In my opinion, WWDC20 was even more special than other years, and it well deserves to have a badge.",
+            "difficultyLevel": "advanced",
+            "attributes": [
+                "short",
+                "appLike",
+                "art",
+                "designOriented",
+                "objectOrientedProgramming",
+                "projectBased"
+            ],
+            "supportedDevices": [
+                "iPad"
+            ],
+            "contentIdentifier": "com.bertan.playgroundcollection.WWDC20BadgeCreatoriPad",
+            "contentVersion": "1.1",
+            "url": "WWDC20BadgeCreator/WWDC20%20Badge%20Creator(iPad).playgroundbook.zip",
+            "publishedDate": "2020-05-17T13:53:42+03:00",
+            "lastUpdatedDate": "2020-05-17T13:53:42+03:00",
+            "thumbnailURL": "WWDC20BadgeCreator/thumbnail.png",
+            "bannerImageURL": "WWDC20BadgeCreator/banner.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "WWDC20BadgeCreator/preview-1.png",
+                "WWDC20BadgeCreator/preview-2.png",
+                "WWDC20BadgeCreator/preview-3.png",
+                "WWDC20BadgeCreator/preview-4.png"
+            ]
+        },
+        {
             "title": "The Collatz Playground",
             "overviewSubtitle": "Discover the Collatz Conjecture (3n+1) With Graphs!",
             "detailSubtitle": "Draw the Collatz Conjecture (3n+1) graph of any number of your choosing!",
