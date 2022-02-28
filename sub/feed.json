@@ -7,6 +7,44 @@
     "formatVersion": "1.0",
     "documents": [
         {
+            "title": "The ADHD Exploration - WWDC21",
+            "overviewSubtitle": "Get the best advice on managing your ADHD, depending on your personality.",
+            "detailSubtitle": "Accepted submission for the WWDC21 Swift Student Challenge!",
+            "description": "This is my submission for the Apple WWDC21 Swift Student Challenge. Inspired by an ADHDer friend of mine, this playground aims to give the best ADHD advice based on your personality. After taking a personality test based on the five-factor personality traits, you get one piece of advice correlated with each trait.\nI built this playground only for education, experimentation, and most importantly, for fun! THIS PLAYGROUND IS NOT A MEDICAL TOOL NOR MEDICAL ADVICE. If you have or think you have ADHD, consult with a medical professional to get proper help. The five-factor personality test here is far from a professional one, so please beware that accuracy may vary. Keep in mind this playground is focused on adults' ADHD.",
+            "difficultyLevel": "advanced",
+            "attributes": [
+                "medium",
+                "appLike",
+                "biology",
+                "designOriented",
+                "objectOrientedProgramming",
+                "projectBased"
+            ],
+            "supportedDevices": [
+                "Mac"
+            ],
+            "contentIdentifier": "com.bertan.playgroundcollection.theADHDExplorationWWDC21Mac",
+            "contentVersion": "1.0",
+            "url": "theADHDExplorationWWDC21/The%20ADHD%20Exploration%20WWDC21(Mac).playgroundbook.zip",
+            "publishedDate": "2021-06-01T13:53:42+03:00",
+            "lastUpdatedDate": "2021-06-01T13:53:42+03:00",
+            "thumbnailURL": "theADHDExplorationWWDC21/thumbnail.png",
+            "bannerImageURL": "theADHDExplorationWWDC21/banner.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "theADHDExplorationWWDC21/preview-1M.png",
+                "theADHDExplorationWWDC21/preview-2M.png",
+                "theADHDExplorationWWDC21/preview-3M.png",
+                "theADHDExplorationWWDC21/preview-4M.png",
+                "theADHDExplorationWWDC21/preview-5M.png"
+            ]
+        },
+        {
             "title": "WWDC20 Badge Creator",
             "overviewSubtitle": "Create Your Own Badges for the first all online WWDC!",
             "detailSubtitle": "Accepted submission for the WWDC20 Swift Student Challenge!",
