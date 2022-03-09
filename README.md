@@ -11,6 +11,4 @@ Glad to see you here! This GitHub Pages site is used to host the subscription fi
 
 **Subscription URL:** https://www.playgrounds.bertan.codes/sub/feed.json
 
-More playgrounds coming very soon!
-
 [You can check out my Gitub profile and discover all of my projects!](https://github.com/bertant)
