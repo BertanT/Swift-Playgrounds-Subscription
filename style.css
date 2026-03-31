@@ -1,6 +1,7 @@
 html {
   color: #1a1a1a;
   background-color: #fdfdfd;
+  font-family: system-ui;
 }
 body {
   margin: 0 auto;
