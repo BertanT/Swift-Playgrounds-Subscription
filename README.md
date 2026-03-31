@@ -15,4 +15,6 @@ Glad to see you here! This site is used to host my Playgrounds Subscription file
 
 [You can check out my Gitub profile and discover all of my projects!](https://github.com/bertant)
 
+**Note to self:** The Nginx config here was updated to work with the `docker-static-hosting` pipeline and not bare-metal nginx. Do not host the configuration file or any dotfiles included in this repo!
+
 ##### Made with ❤️  and passion. Copyright (C) 2025 Mehmet Bertan Tarakcioglu, under the MIT License. 
