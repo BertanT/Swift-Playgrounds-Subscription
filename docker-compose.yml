@@ -49,6 +49,15 @@ services:
     ports:
       - 127.0.0.1:8082:8080
 
+    # Define a simple health check that makes sure the server responds to requests
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080"]
+      interval: 1m30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+      start_interval: 5s
+
     # Make sure the container restarts to recover itself unless explicitly
     # stopped by the user.
     restart: unless-stopped
