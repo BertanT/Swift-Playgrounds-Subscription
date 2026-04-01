@@ -1,6 +1,6 @@
 services:
   server:
-    build: .
+    image: nginx
     # Read only container for security!
     read_only: true
 
@@ -47,11 +47,11 @@ services:
     # Map port(s) in the container to the host on localhost only for safety...
     # HOST_IP:HOST_PORT:CONTAINER_PORT
     ports:
-      - 127.0.0.1:8082:8080
+      - 127.0.0.1:8082:80
 
     # Define a simple health check that makes sure the server responds to requests
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8080"]
+      test: ["CMD", "curl", "-f", "http://localhost"]
       interval: 1m30s
       timeout: 10s
       retries: 3
